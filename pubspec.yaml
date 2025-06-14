@@ -35,7 +35,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.wakelock_partial_android
+        package: com.tananaev.wakelock_partial_android
         pluginClass: WakelockPartialAndroidPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
