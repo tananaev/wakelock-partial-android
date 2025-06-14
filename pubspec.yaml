@@ -1,7 +1,7 @@
 name: wakelock_partial_android
 description: "Android partial wake lock plugin"
 version: 1.0.0
-homepage:
+homepage: https://github.com/tananaev/wakelock-partial-android
 
 environment:
   sdk: ^3.8.1
