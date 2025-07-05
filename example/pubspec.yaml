@@ -3,7 +3,7 @@ description: "Demonstrates how to use the wakelock_partial_android plugin."
 publish_to: 'none'
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.7.2
 
 dependencies:
   flutter:
